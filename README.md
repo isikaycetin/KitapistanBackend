@@ -22,3 +22,11 @@ E-ticaret Sitesi (Kitaplar)
 <strong>Sayfa Yapısı:</strong> Adminler , ikonları , çerezleri, güvenlik yapısını haritaları ve grafikleri ayarlayabilir.<br>
 
  Admin paneli, Kitapistan'ın sağladığı tüm özellikleri etkin bir şekilde yönetmeyi ve güncellemeyi sağlar. Bu sayede site yöneticileri, kullanıcı deneyimini ve satış performansını optimize edebilirler.
+
+<h3>Kullanılan Diller ve Yapılar</h3>
+  -Html <br>
+  -Css <br>
+  -JavaScript<br>
+  -Php
+  -Bootstrap
+  -Ajax 
