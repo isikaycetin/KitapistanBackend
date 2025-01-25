@@ -27,6 +27,6 @@ E-ticaret Sitesi (Kitaplar)
   -Html <br>
   -Css <br>
   -JavaScript<br>
-  -Php
-  -Bootstrap
+  -Php <br>
+  -Bootstrap <br>
   -Ajax 
